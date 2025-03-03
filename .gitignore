@@ -13,4 +13,3 @@ saved/
 *.xlsx
 *_BuiltData.uasset
 !/Binaries/HTML5/ExpoTown_WebGL-HTML5-Shipping.UE4.js
-HTML5Builds/
